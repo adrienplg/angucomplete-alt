@@ -3,17 +3,19 @@
   "version": "3.0.0",
   "homepage": "http://adrienplg.github.io/angucomplete-alt/",
   "authors": [
-    "Hidenari Nozaki <hidenari@gmail.com>"
+    "Hidenari Nozaki <hidenari@gmail.com>",
+    "Adrien Pouligny <adrienplg@gmail.com>"
   ],
   "description": "Autocomplete directive for AngularJS",
   "keywords": [
     "autocomplete",
     "typeahead",
-    "angularjs"
+    "angularjs",
+    "rentlytics"
   ],
   "license": "MIT",
   "main": [
-      "./angucomplete-alt.js",
+      "./angucomplete-alt-rl.js",
       "./angucomplete-alt.css"
   ],
   "ignore": [
